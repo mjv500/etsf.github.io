@@ -1,1 +1,1 @@
-[Introduction to Hartree equations](https://youtu.be/4Y78mgKWHEY)
+[Introduction to Hartree equations](https://youtu.be/4Y78mgKWHEY){:target="_blank"}
